@@ -1,17 +1,16 @@
-# Dotfiles
+# Dotfiles_windows
 
-My dotfiles for OSX.
+My dotfiles for Windows.
 
 # News
-Last update: 10-02-16
+Last update: 10-31-16
 
-Tested on: OSX 10.12 Sierra
+Tested on: Windows 10
 
 # Instructions
 
 ```
-chmod a+x install.sh
-bash install.sh
+run as administrator
 ```
 
 # License
